@@ -16,7 +16,7 @@
     "yeoman-generator"
   ],
   "dependencies": {
-    "yeoman-generator": "^1.0.0"
+    "yeoman-generator": "^3.0.0"
   },
   "jest": {
     "testEnvironment": "node"
