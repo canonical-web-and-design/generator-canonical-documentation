@@ -1,3 +1,9 @@
+***Deprecated and archived***
+
+*We no longer use this, and it is no longer actively maintained.*
+
+---
+
 # Yeoman generator for Canonical documentation
 
 This is a [yeoman](http://yeoman.io/) [generator](http://yeoman.io/generators/) for quickly genrating a skeleton project of documentation in Markdown format, according to the [recommended structure](https://docs.ubuntu.com/documentation-builder/en/structure) we use at Canonical:
